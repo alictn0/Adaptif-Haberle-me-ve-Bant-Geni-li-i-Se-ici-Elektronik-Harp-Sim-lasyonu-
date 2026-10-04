@@ -18,12 +18,12 @@ Sinyal kalitesi %50'nin üzerindedir ve Jammer tehdidi yoktur. Geniş bant video
 
 ### 2. Durum: Sinyal Zayıflaması
 Araç istasyondan uzaklaştıkça sinyal seviyesi düşer. Sistem dar banda geçer (Sarı LED) ve sadece uçuş telemetrisi iletir.
-[Sinyal Zayıflamas](gorseller/durum_2_zayif_sinyal.png)<img width="1600" height="851" alt="sarı" src="https://github.com/user-attachments/assets/2dcd0710-e794-4937-a9d6-b47a404ba419" />
+<img width="1600" height="851" alt="sarı" src="https://github.com/user-attachments/assets/2dcd0710-e794-4937-a9d6-b47a404ba419" />
 
 
 ### 3. Durum: Elektronik Harp (Jamming Saldırısı)
 Sinyal kalitesi ne olursa olsun dış kaynaklı bir Jammer tespit edildiğinde, sistem derhal UHF Kriptolu frekansa atlar (Kırmızı LED).
-![Elektronik Harp Durumu](gorseller/durum_3_jammer_aktif.png)<img width="1600" height="848" alt="kırmızı" src="https://github.com/user-attachments/assets/633eca1d-06ac-4068-8c69-50b48c079ba7" />
+<img width="1600" height="848" alt="kırmızı" src="https://github.com/user-attachments/assets/633eca1d-06ac-4068-8c69-50b48c079ba7" />
 
 
 ## 🛠️ Kurulum ve Test
