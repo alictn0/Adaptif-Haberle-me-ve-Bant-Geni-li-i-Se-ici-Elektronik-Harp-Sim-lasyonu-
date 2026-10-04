@@ -5,7 +5,7 @@ Bu proje, otonom sistemlerin (İHA, İKA) zorlu çevresel faktörler ve Elektron
 ## ⚙️ Sistem Şeması ve Donanım
 Potansiyometre (Sinyal Kalitesi) ve Jammer (Bozucu Sinyal) girişlerinin bulunduğu Proteus donanım mimarisi:
 
-(gorseller/sema.png)<img width="576" height="492" alt="şema" src="https://github.com/user-attachments/assets/9da232a0-2724-4ac0-98eb-831b3f590c41" />
+<img width="576" height="492" alt="şema" src="https://github.com/user-attachments/assets/9da232a0-2724-4ac0-98eb-831b3f590c41" />
 
 ## 🎯 Projenin Amacı
 Bir otonom aracın ana istasyon ile olan iletişim kalitesi (RSSI) düştüğünde veya dış kaynaklı bir sinyal boğucu (Jammer) saldırısına uğradığında, sistemin kendi kendine haberleşme protokolünü değiştirmesini sağlamaktır. Sistem aldığı bu hayati kararı "Kara Kutu" mantığıyla gerekçelendirerek terminale yansıtır.
