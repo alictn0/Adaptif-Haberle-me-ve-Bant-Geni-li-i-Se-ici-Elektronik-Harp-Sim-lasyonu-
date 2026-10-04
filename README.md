@@ -1,4 +1,3 @@
-<img width="1600" height="851" alt="yeşil" src="https://github.com/user-attachments/assets/d4b2313e-95c6-4e83-bc0a-b7df6d179bdb" /># Adaptif Haberleşme ve Bant Genişliği Seçici (Elektronik Harp Simülasyonu)
 
 Bu proje, otonom sistemlerin (İHA, İKA) zorlu çevresel faktörler ve Elektronik Harp (Jamming) tehditleri altında hayatta kalabilmesi için geliştirilmiş **açıklanabilir bir adaptif haberleşme prototipidir**. 
 
