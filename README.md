@@ -13,7 +13,7 @@ Bir otonom aracın ana istasyon ile olan iletişim kalitesi (RSSI) düştüğün
 
 ### 1. Durum: Normal Operasyon
 Sinyal kalitesi %50'nin üzerindedir ve Jammer tehdidi yoktur. Geniş bant video aktarımı aktiftir (Yeşil LED).
-![Normal Operasyon](gorseller/durum_1_normal.png)<img width="1600" height="851" alt="yeşil" src="https://github.com/user-attachments/assets/ce57260e-1cba-48f8-ae9f-ad8f7ce0c6a1" />
+<img width="1600" height="851" alt="yeşil" src="https://github.com/user-attachments/assets/ce57260e-1cba-48f8-ae9f-ad8f7ce0c6a1" />
 
 
 ### 2. Durum: Sinyal Zayıflaması
